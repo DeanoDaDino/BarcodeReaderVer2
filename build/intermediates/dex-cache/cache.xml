@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\41b4c4fc60c50fec9bf281b33e5dda0b7de7e47c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec7f094638d7bbe8272f9b312a269a44a7cc4608\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\ca9a9862769ad9996e4496c2e8fef1281e31b152\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9361c54a0e794f7c545c58fb8d28fcb5693a1ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\f01fb84df7187601836196c8d733f8262cd6e84b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c4b081d9119f7a49893b4d3a6af0630f7a04a01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\8890a2f4ae10a59ea5ac035426c9bd46dd4e9e0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d78c5cf2d2c608ff73944658f4ab345cc79d5fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\bcf1af33d65ced1476dc4685e3bdf2202d75348c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df9c4afc48fea9cb273c9d05584a0bfd12b6ea82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\b08740ae8444d5709fd784dcbeff38b500c7e809\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40bb555082f99766ed858976490e6357e3acd673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\2dd7a6d8e05c14e2949ec919e8005445b5ccee30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5651da9d352fb9f678223a1a6cf5ab8a69fae906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\15cdd86c96b24d4e61707fe943c9a46f7437fc63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c51b7305aaf8b5739780239fa7a2c53e471e0a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\3132d42f1338c8d1cece15e412a12a1bd612f164\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fc2998542d91552db6e8bfd9b4d47a30ad2714a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\b89fd2ae8515ab44a8ab28fdeb44d75758857f8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d29116b8512cc51aa9251738164e7e88a78607a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\d15fd287c5eaf3e3ae0676d745774121aeefe5cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_244cfddbe08dd1b122fb11561e061bb47ae56d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\d5021581f9189be5329921cbcfa47fe901502e33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4a30ff6892787b62b061cc0d6eaa3d933d6f890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\BarcodeReader-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83f5c58d24771a164ea91b0ba0cf0d0acf704eda">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_18b6738adb23d7b594cb0385217e2562f6595fd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\BarcodeReader-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6fbe3a073edcb3277a32b3a4b22d8120751a169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_1b043220312a855a6ffc8544e345d98477bd325d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\3a4fc1466ce1276f3362e13155b7ed95d0b917a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8de55e5c9a123ef90d307a102c3a51e610692666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\8275bf2f22e6e097dfabac22d963aff736e1394e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da1bab6da12e88373ccfb364778443e8dfd58f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\9234f93968967e9218ef65a4b2fc92e864c401f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fc009a417084ef44f05245ecd011991cf159c22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\b3a5c03847bd6b8e61f93b37d2b4ec0c6ea27004\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_589dcee0c3bab68c30fa213f7baad2091bec7297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\7da0b05f613ffe2d78de41506a877f5ddae7ecd2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76808d8c7cd226f2cb3fea95916eac1123254c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\0a1b4acf58fc303a983a8afb8997f735547668ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_428c6149e4fb22bf991f581b98ebb656acca2a02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\74937ebcf4abee71ce739c2fb2aafe643a5803e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1013bffc7bb2f0a5917f8d6d85d4704b1448112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\aa38dc78420f4a5a74e5cc141bd46aa366153118\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_42f824f7c60f0282e9f6287cf15a16e5e99203a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\16d0929a8c9315c32702a35703294f06f4a02e07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5487ee9c9882ecff017baa4f70864ad00cddef2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\932f776e9908379047ba98953c8bf88588711841\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b66fd994d06e833c9411ee840c7f09651f483544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\aa38dc78420f4a5a74e5cc141bd46aa366153118\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_426fa6d128c2c3fb9bd96980137f94dc3327e6db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\2b4c7778343b463ab63527241feb77c92eee2793\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_220058294ac2a3f9803edf0cb748a4ea07d56180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\65a72537697c7fdacaee015b9f1f6d940643122b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_410f811fbf1ecb34e69579ec1c75155d600658a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\2d24daf3630a9601894ba482cfc004bd1718151b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_064f272d2b6a40d116991df13925d5c2ed8f8811\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\866af4a5bd3d43db0851605b64a43e197792b487\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46d87884e8c713d1f8e567332b7c08c8210ac87e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ProGaming101\.android\build-cache\410a7ea933afb1f422c02e77a1b0418055e4017d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\BarcodeReader-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2731cf8df9aba6a1d66270aa139ab8d1d6ff5f5a\classes.dex" />
+    </item>
+
+</items>
